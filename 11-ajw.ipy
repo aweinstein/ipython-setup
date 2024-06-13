@@ -1,4 +1,4 @@
-%matplotlib qt5
+%matplotlib qt
 %load_ext autoreload
 %autoreload 2
 %xmode plain
